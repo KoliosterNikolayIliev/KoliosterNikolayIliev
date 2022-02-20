@@ -6,7 +6,7 @@
 
 
 Junior software developer with around 2 years of experience in creating single-page applications, backend applications and more.
-Honest, responsible team player with experience in engineering, customer interaction, sales. My latest ongoing project is web scraping data gathering and analysis app using django for backend and react for the front end. Most of my latest contributions currently are to private repositories.
+Honest, responsible team player with experience in engineering, customer interaction, sales. My latest ongoing project is web scraping data gathering and analysis app using django for backend and react for the front end. Most of my latest contributions currently are done to private repositories.
 
 
   
