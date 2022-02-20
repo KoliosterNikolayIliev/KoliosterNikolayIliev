@@ -44,7 +44,7 @@ Honest, responsible team player with experience in engineering, customer interac
 	<a href="https://www.linkedin.com/in/nikolay-iliev-4995b956/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nikolay%20Iliev%20-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
-<div style="text-align: center;">
+<div align="center">
 	
 ### 🔥 &nbsp; My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoliosterNikolayIliev)](https://github.com/KoliosterNikolayIliev/github-readme-stats)
