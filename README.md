@@ -5,8 +5,8 @@
 -->
 
 
-Junior software developer with around 2 years of experience in creating single-page applications, backend applications and more. You can check some of my projects in the [**Repositories**](https://github.com/KoliosterNikolayIliev?tab=repositories) section.
-Honest, responsible team player with experience in engineering, customer interaction, sales. My latest ongoing project is web scraping data gathering and analisys app using django for backend and react for the front end.
+Junior software developer with around 2 years of experience in creating single-page applications, backend applications and more.
+Honest, responsible team player with experience in engineering, customer interaction, sales. My latest ongoing project is web scraping data gathering and analisys app using django for backend and react for the front end. Most of my latest contrubutions currently are to private repositiories.
 
 
   
