@@ -47,6 +47,8 @@ Honest, responsible team player with experience in engineering, customer interac
 <div align="center">
 	
 ### 🔥 &nbsp; My Stats :
+	
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoliosterNikolayIliev&theme=tokyonight)](https://github.com/KoliosterNikolayIliev/github-readme-stats)
 	
 </div>
