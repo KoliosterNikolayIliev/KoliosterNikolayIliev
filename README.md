@@ -42,6 +42,5 @@ Honest, responsible team player with experience in engineering, customer interac
 <br/>
 <p align="center">
 	<a href="https://www.linkedin.com/in/nikolay-iliev-4995b956/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nikolay%20Iliev%20-blue?style=flat-square&logo=linkedin"></a>
-	<span src="https://img.shields.io/badge/Email-nikollay.illiev@gmail.com-blue?style=flat-square&logo=gmail"></span>
 </p>
 
