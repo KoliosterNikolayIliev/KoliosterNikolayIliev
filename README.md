@@ -31,7 +31,6 @@ Honest, responsible team player with experience in engineering, customer interac
 	<img align="center" alt="NodeJs" width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 	<img align="center" alt="React" width="35px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
 	<img align="center" alt="PostgreSQL" width="35" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-	<img align="center" alt="Django REST" width="35" src="https://www.django-rest-framework.org/img/logo.png"/>
 	<img align="center" alt="Solidity" width="65" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png"/>
 	
 </p>
