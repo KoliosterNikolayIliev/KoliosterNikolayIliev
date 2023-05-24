@@ -5,7 +5,7 @@
 -->
 
 
-Blockchain / Python web developer with around 2 years of experience in creating single-page applications, backend applications, DAP's and more
+Blockchain / Python web developer with 2 years of experience in creating single-page applications, backend applications, DAP's and more
 
 
   
