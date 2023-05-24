@@ -5,8 +5,7 @@
 -->
 
 
-Junior software developer with around 2 years of experience in creating single-page applications, backend applications and more.
-Honest, responsible team player with experience in engineering, customer interaction, sales. My latest ongoing project is web scraping data gathering and analysis app using django for backend and react for the front end. Most of my latest contributions currently are done to private repositories.
+Blockchain / Python web developer with around 2 years of experience in creating single-page applications, backend applications, DAP's and more
 
 
   
@@ -49,7 +48,7 @@ Honest, responsible team player with experience in engineering, customer interac
 		
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoliosterNikolayIliev&&layout=compact&theme=vision-friendly-dark)](https://github.com/KoliosterNikolayIliev/github-readme-stats) -->
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoliosterNikolayIliev&layout=compact&theme=vision-friendly-dark)](https://github.com/KoliosterNikolayIliev/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoliosterNikolayIliev&layout=compact&theme=vision-friendly-dark)](https://github.com/KoliosterNikolayIliev/github-readme-stats) -->
 
 
 
@@ -58,5 +57,5 @@ Honest, responsible team player with experience in engineering, customer interac
 
 <div align="center">
 	
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KoliosterNikolayIliev&theme=dark&background=000000)](https://git.io/streak-stats)	
-</div>
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KoliosterNikolayIliev&theme=dark&background=000000)](https://git.io/streak-stats)	
+</div> -->
