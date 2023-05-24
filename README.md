@@ -28,11 +28,11 @@ Honest, responsible team player with experience in engineering, customer interac
 	<img align="center" alt="HTML" width="35" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 	<img align="center" alt="CSS" width="35" src="https://img.icons8.com/color/48/000000/css3.png"/>
 	<img align="center" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png"/>
-	<img align="center" width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+	<img align="center" alt="NodeJs" width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 	<img align="center" alt="React" width="35px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
 	<img align="center" alt="PostgreSQL" width="35" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-	<img align="center" width="35" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-	<img align="center" alt="Docker" width="65" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/>
+	<img align="center" alt="Django REST" width="35" src="https://www.django-rest-framework.org/img/logo.png"/>
+	<img align="center" alt="Solidity" width="65" src="https://soliditylang.org/images/logo.svg"/>
 	
 </p>
 
