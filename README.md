@@ -5,7 +5,7 @@
 -->
 
 
-Blockchain / Python web developer with 2 years of experience in creating single-page applications, backend applications, DAP's and more
+Blockchain / Python web developer with 4+ years of experience in creating single-page applications, backend applications, DAP's and more
 
 
   
@@ -34,13 +34,6 @@ Blockchain / Python web developer with 2 years of experience in creating single-
 	
 </p>
 
-<br>
-
-<h3 align="center">Ways to connect with me</h3>
-<br/>
-<p align="center">
-	<a href="https://www.linkedin.com/in/nikolay-iliev-4995b956/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nikolay%20Iliev%20-blue?style=flat-square&logo=linkedin"></a>
-</p>
 
 <!-- <div align="center">
 	
