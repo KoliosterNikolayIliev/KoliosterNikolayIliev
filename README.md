@@ -7,18 +7,7 @@
 
 Blockchain / Python web developer with 4+ years of experience in creating single-page applications, backend applications, DAP's and more
 
-
-  
-<!-- <p align="center">
-  <a href="https://github.com/KoliosterNikolayIliev">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KoliosterNikolayIliev&theme=dark&show_icons=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoliosterNikolayIliev&theme=dark&layout=compact&hide=HTML,CSS" />
-  </a>
-</p> -->
-
-<br>
-
-<h3 align="center">Technological stack:</h3>
+<h3 align="center">Stack:</h3>
 
 
 <p align="center">
